@@ -1,1 +1,4 @@
 recipients.txt
+recipients-*.txt
+
+*.cfg
